@@ -1,7 +1,7 @@
 {
   "name": "video2gif",
   "version": "1.0.0",
-  "description": "Drag your video, it'll covert to gif",
+  "description": "Drag your video, it'll convert to gif",
   "main": "src/index.html",
   "author": "realdennis <realdennis777@gmail.com>",
   "license": "MIT",
